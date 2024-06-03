@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MetaSemestralka.Vrchol">
+    <Position X="6" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAQAAAAAgAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Vrchol.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MetaSemestralka.Selector">
+    <Position X="6" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Selector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MetaSemestralka.Program">
+    <Position X="7.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MetaSemestralka.Parametre">
+    <Position X="4.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQgQAAAAAAAEAEAAgABAACAAAAAgARAABAEQIQAIAAA=</HashCode>
+      <FileName>Parametre.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MetaSemestralka.Mutator">
+    <Position X="7.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAIAAAA=</HashCode>
+      <FileName>Mutator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MetaSemestralka.GenAlgo">
+    <Position X="2.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgIAAICAAAAAAAAAAAQAAAAAAgAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>GenAlgo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MetaSemestralka.Evaluator">
+    <Position X="7.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Evaluator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MetaSemestralka.Crosser">
+    <Position X="2.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Crosser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

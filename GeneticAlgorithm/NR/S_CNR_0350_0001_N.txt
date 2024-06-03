@@ -1,0 +1,351 @@
+350
+Kráľová nad Váhom 
+Sokolce 
+Tôň 
+Holiare 
+Trávnik 
+Číčov 
+Bodza 
+Klížska Nemá 
+Brestovec 
+Vlčany 
+Neded 
+Palárikovo 
+Nové Zámky 
+Zemné 
+Andovce 
+Komoča 
+Dedina Mládeže 
+Kolárovo 
+Nesvady 
+Zemianska Olča 
+Okoličná na Ostrove 
+Veľké Kosihy 
+Lipové 
+Bodzianske Lúky 
+Čalovec 
+Zlatná na Ostrove 
+Kameničná 
+Komárno 
+Vrbová nad Váhom 
+Martovce 
+Imeľ 
+Bajč 
+Hurbanovo 
+Svätý Peter 
+Dulovce 
+Chotín 
+Iža 
+Marcelová 
+Bánov 
+Bešeňov 
+Dvory nad Žitavou 
+Branovo 
+Pribeta 
+Veľké Ripňany 
+Malé Ripňany 
+Lužany 
+Nitrianska Streda 
+Horné Obdokovce 
+Čermany 
+Hruboňovo 
+Šurianky 
+Nové Sady 
+Malé Zálužie 
+Biskupová 
+Zbehy 
+Čakajovce 
+Ludanice 
+Dvorany nad Nitrou 
+Kamanová 
+Preseľany 
+Koniarovce 
+Výčapy - Opatovce 
+Jelšovce 
+Lukáčovce 
+Alekšince 
+Rišňovce 
+Rumanová 
+Báb 
+Veľké Zálužie 
+Lehota 
+Nitra 
+Kovarce 
+Čeľadince 
+Oponice 
+Súlovce 
+Kostoľany pod Tribečom 
+Ladice 
+Žirany 
+Kolíňany 
+Jelenec 
+Beladice 
+Choča 
+Sľažany 
+Velčice 
+Mankovce 
+Zlatno 
+Čab 
+Slepčany 
+Nová Ves nad Žitavou 
+Malé Chyndice 
+Veľké Chyndice 
+Babindol 
+Golianovo 
+Čeľadice 
+Hosťová 
+Pohranice 
+Dolné Obdokovce 
+Malý Lapáš 
+Veľký Lapáš 
+Nitrianske Hrnčiarovce 
+Žitavce 
+Melek 
+Maňa 
+Trávnica 
+Podhájska 
+Radava 
+Hul 
+Dolný Ohaj 
+Šurany 
+Úľany nad Žitavou 
+Lipová 
+Komjatice 
+Černík 
+Mojzesovo 
+Vinodol 
+Veľký Cetín 
+Paňa 
+Kmeťovo 
+Lúčnica nad Žitavou 
+Michal nad Žitavou 
+Vráble 
+Čechynce 
+Malý Cetín 
+Veľký Kýr 
+Ivanka pri Nitre 
+Tvrdošovce 
+Selice 
+Žihárec 
+Tešedíkovo 
+Šaľa 
+Trnovec nad Váhom 
+Diakovce 
+Dlhá nad Váhom 
+Jatov 
+Rastislavice 
+Poľný Kesov 
+Veľká Dolina 
+Mojmírovce 
+Svätoplukovo 
+Cabaj - Čápor 
+Močenok 
+Horná Kráľová 
+Hájske 
+Jarok 
+Lužianky 
+Šalgovce 
+Svrbice 
+Orešany 
+Štefanovičová 
+Horné Štitáre 
+Kapince 
+Neverice 
+Chrabrany 
+Urmince 
+Klasov 
+Branč 
+Belince 
+Hrušovany 
+Ľudovítová 
+Vlkas 
+Krnča 
+Solčany 
+Topoľčany 
+Nemčice 
+Jacovce 
+Tovarníky 
+Práznovce 
+Horné Chlebany 
+Krušovce 
+Rajčany 
+Norovce 
+Solčianky 
+Bojná 
+Tesáre 
+Velušovce 
+Závada 
+Prašice 
+Podhradie 
+Nemečky 
+Tvrdomestice 
+Hajná Nová Ves 
+Nitrianska Blatnica 
+Radošina 
+Vozokany 
+Lipovník 
+Blesovce 
+Veľké Dvorany 
+Čaka 
+Kolta 
+Čechy 
+Farná 
+Nýrovce 
+Hronovce 
+Málaš 
+Želiezovce 
+Ipeľský Sokolec 
+Lontov 
+Bielovce 
+Pastovce 
+Malé Ludince 
+Šalov 
+Pohronský Ruskov 
+Zalaba 
+Čata 
+Bíňa 
+Sikenička 
+Pavlová 
+Kamenín 
+Salka 
+Malé Kosihy 
+Bajtava 
+Leľa 
+Kamenica nad Hronom 
+Chľaba 
+Malá nad Hronom 
+Kamenný Most 
+Štúrovo 
+Nána 
+Mužla 
+Belá 
+Ľubá 
+Šarkan 
+Gbelce 
+Bátorove Kosihy 
+Búč 
+Kravany nad Dunajom 
+Nová Vieska 
+Modrany 
+Šrobárová 
+Mudroňovo 
+Virt 
+Radvaň nad Dunajom 
+Moča 
+Strekov 
+Rúbaň 
+Dubník 
+Jásová 
+Semerovo 
+Veľké Ludince 
+Kuraľany 
+Keť 
+Bruty 
+Svodín 
+Krtovce 
+Patince 
+Obid 
+Skýcov 
+Topoľčianky 
+Machulince 
+Žikava 
+Lovce 
+Hosťovce 
+Martin nad Žitavou 
+Hostie 
+Obyce 
+Jedľové Kostoľany 
+Bohunice 
+Pukanec 
+Jabloňovce 
+Pečenice 
+Bátovce 
+Žemberovce 
+Drženice 
+Brhlovce 
+Hontianske Trsťany 
+Hokovce 
+Horné Semerovce 
+Dolné Semerovce 
+Vyškovce nad Ipľom 
+Kubáňovo 
+Sazdice 
+Demandice 
+Sikenica 
+Plavé Vozokany 
+Tekovské Lužany 
+Dedinka 
+Pozba 
+Bardoňovo 
+Dolný Pial 
+Horný Pial 
+Šarovce 
+Kukučínov 
+Zbrojníky 
+Hontianska Vrbica 
+Jur nad Hronom 
+Santovka 
+Domadice 
+Krškany 
+Mýtne Ludany 
+Starý Hrádok 
+Levice 
+Horná Seč 
+Dolná Seč 
+Vyšné nad Hronom 
+Žemliare 
+Turá 
+Tekovský Hrádok 
+Ondrejovce 
+Bajka 
+Lok 
+Kalná nad Hronom 
+Veľký Ďur 
+Beša 
+Tehla 
+Jesenské 
+Iňa 
+Lula 
+Telince 
+Čifáre 
+Tajná 
+Starý Tekov 
+Nový Tekov 
+Hronské Kľačany 
+Veľké Kozmálovce 
+Kozárovce 
+Malé Kozmálovce 
+Nemčiňany 
+Rybník 
+Tlmače 
+Čajkov 
+Hronské Kosihy 
+Podlužany 
+Nová Dedina 
+Devičany 
+Uhliská 
+Tekovské Nemce 
+Volkovce 
+Čierne Kľačany 
+Malé Vozokany 
+Nevidzany 
+Červený Hrádok 
+Veľké Vozokany 
+Tesárske Mlyňany 
+Vieska nad Žitavou 
+Šahy 
+Ipeľské Úľany 
+Plášťovce 
+Horné Turovce 
+Veľké Turovce 
+Slatina 
+Hrkovce 
+Veľké Lovce 
+Ardanovce 
+Čaradice 
+Tupá 
+Bory 
+Lefantovce 
+Podhorany 
+Zlaté Moravce 
+Kuzmice 

@@ -1,0 +1,13 @@
+C:\Users\qUiet\source\repos\MetaSemestralka\MetaSemestralka\bin\Debug\netcoreapp3.1\MetaSemestralka.exe
+C:\Users\qUiet\source\repos\MetaSemestralka\MetaSemestralka\bin\Debug\netcoreapp3.1\MetaSemestralka.deps.json
+C:\Users\qUiet\source\repos\MetaSemestralka\MetaSemestralka\bin\Debug\netcoreapp3.1\MetaSemestralka.runtimeconfig.json
+C:\Users\qUiet\source\repos\MetaSemestralka\MetaSemestralka\bin\Debug\netcoreapp3.1\MetaSemestralka.runtimeconfig.dev.json
+C:\Users\qUiet\source\repos\MetaSemestralka\MetaSemestralka\bin\Debug\netcoreapp3.1\MetaSemestralka.dll
+C:\Users\qUiet\source\repos\MetaSemestralka\MetaSemestralka\bin\Debug\netcoreapp3.1\MetaSemestralka.pdb
+C:\Users\qUiet\source\repos\MetaSemestralka\MetaSemestralka\obj\Debug\netcoreapp3.1\MetaSemestralka.AssemblyInfoInputs.cache
+C:\Users\qUiet\source\repos\MetaSemestralka\MetaSemestralka\obj\Debug\netcoreapp3.1\MetaSemestralka.AssemblyInfo.cs
+C:\Users\qUiet\source\repos\MetaSemestralka\MetaSemestralka\obj\Debug\netcoreapp3.1\MetaSemestralka.csproj.CoreCompileInputs.cache
+C:\Users\qUiet\source\repos\MetaSemestralka\MetaSemestralka\obj\Debug\netcoreapp3.1\MetaSemestralka.dll
+C:\Users\qUiet\source\repos\MetaSemestralka\MetaSemestralka\obj\Debug\netcoreapp3.1\MetaSemestralka.pdb
+C:\Users\qUiet\source\repos\MetaSemestralka\MetaSemestralka\obj\Debug\netcoreapp3.1\MetaSemestralka.genruntimeconfig.cache
+C:\Users\qUiet\source\repos\MetaSemestralka\MetaSemestralka\obj\Debug\netcoreapp3.1\MetaSemestralka.csprojAssemblyReference.cache
